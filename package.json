@@ -4,10 +4,10 @@
   "version": "0.2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mbilker/cypher.git"
+    "url": "git+https://github.com/edensg/cypher.git"
   },
   "engines": {
-    "nylas": ">=0.4.10"
+    "mailspring": ">=0.4.10"
   },
   "title": "Cypher",
   "icon": "./assets/icon.png",
